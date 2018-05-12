@@ -1,0 +1,27 @@
+_repo: Microcosmographyor-a-Piece-of-the-World-Discovered--in-Essays-and-Characters_26425
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Earle, John
+    deathdate: 1665
+    gutenberg_agent_id: '31995'
+    url: http://www.gutenberg.org/2009/agents/31995
+description: ''
+gutenberg_issued: '2008-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character sketches'
+- !lcc 'PR'
+title: 'Microcosmography
+
+  or, a Piece of the World Discovered; in Essays and Characters'
+url: http://www.gutenberg.org/ebooks/26425
