@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31995'
     url: http://www.gutenberg.org/2009/agents/31995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26425#Microcosmographyor-a-Piece-of-the-World-Discovered--in-Essays-and-Characters
 gutenberg_issued: '2008-08-25'
 gutenberg_type: Text
 identifiers:
